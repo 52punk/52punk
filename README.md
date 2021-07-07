@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=52punk)](https://github.com/52punk/github-readme-stats)
+
+<img style=”padding-top:30px;” align="right" src="https://github-readme-stats.vercel.app/api?username=52punk&show_icons=true&theme=dracula&line_height=27" alt="Pankaj Sah's github stats"/>
+<img src="https://profile-counter.glitch.me/52punk/count.svg" />
 -->
